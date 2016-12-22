@@ -59,3 +59,24 @@ free from arena and daily activities.
 
 THIS IS ONE OF THE MOST IMPORTANT CONTRIBUTIONS YOU CAN MAKE TO THE 
 GUILD!!
+
+### Rancor Raid
+
+Since we have many good players in the guild, a few of whom can
+do the entire Rancor raid by themselves, we don't perform all out
+attacks on the Rancor when we launch the raid. 
+
+First, choose a weak 7* character to attack alone. Attack only the side
+pigs with him. When he is destroyed, you will be on the board with 0
+damage. This enables you to still get rewards even if you can't make the
+posted raid time.
+
+Pay attention to the Notes in the Line App for posted Rancor times.
+
+Strategies for the particular raids are posted in their own guides.
+
+### Tank Raid
+
+The tank raid is still a free-for-all when we launch a Tier 6 "Normal"
+tank raid. Attack and prevail. Your assistance is appreciated and
+mandatory.
